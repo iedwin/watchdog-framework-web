@@ -1,6 +1,6 @@
 {
     "extends": "standard",
-    "root": true,
+    "root": false,
     "parserOptions": {
         "ecmaVersion": 6,
         "sourceType": "module"
